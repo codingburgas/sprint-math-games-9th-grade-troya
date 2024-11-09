@@ -25,6 +25,9 @@ void mainMenu()
     cout << " |                                      3. Credits                                        |" << endl; // Credits for the developers
     cout << " |                                ----------------------                                  |" << endl;
     cout << "  ---------------------------------------------------------------------------------------- ";
+
+    functionMenu();
+
 }
 void functionMenu()
 {
