@@ -1,66 +1,52 @@
 #include <iostream>
-#include<cstring>
+#include <string>
+#include "../include/whiteRabbit.h"
 #include "../include/mainMenu.h"
 using namespace std;
 
 void mainMenu() 
 {
-
-
     // Design of Menu
-    cout << "                ----------------------------------------------------------------------------------------------------------------------------------------                " << endl;
-    cout << "                                                                                                                                                                        " << endl;
-    cout << "                                                                                                                                                                        " << endl;
-    cout << "                                            ----------------------------------------------------------------------------                                    " << endl;
-    cout << "                                           |                                                                            |                                   " << endl;
-    cout << "                                           |                          Solving adventures                                |                                   " << endl; // title
-    cout << "                                           |                          ------------------                                |                                   " << endl;
-    cout << "                                           |                            In wonderland                                   |                                   " << endl;
-    cout << "                                           |                                                                            |                                   " << endl;
-    cout << "                                            ----------------------------------------------------------------------------                                    " << endl;
-    cout << "                                                                                                                                                                        " << endl;
-    cout << "                                                                                                                                                                        " << endl;
-    cout << "                                                                                                                                                                        " << endl;
-    cout << "                                                                     ----------------------                                                              " << endl;
-    cout << "                                                                    |        1.Start       |                                                              " << endl; // Start game
-    cout << "                                                                     ----------------------                                                              " << endl;
-    cout << "                                                                                                                                                                        " << endl;
-    cout << "                                                                                                                                                                        " << endl;
-    cout << "                                                                     ----------------------                                                              " << endl;
-    cout << "                                                                    |       2. Story       |                                                             " << endl; // Start story
-    cout << "                                                                     ----------------------                                                              " << endl;
-    cout << "                                                                                                                                                                        " << endl;
-    cout << "                                                                                                                                                                        " << endl;
-    cout << "                                                                     ----------------------                                                              " << endl;
-    cout << "                                                                    |       3. Credits     |                                                             " << endl; // Credits for the developers
-    cout << "                                                                     ----------------------                                                              " << endl;
-    cout << "                                                                                                                                                                        " << endl;
-    cout << "                                                                                                                                                                        " << endl;
-    cout << "              ----------------------------------------------------------------------------------------------------------------------------------------                          ";
-
-
-
-
- 
-
+    cout << "  ---------------------------------------------------------------------------------------- " << endl;
+    cout << " |       ----------------------------------------------------------------------------     |" << endl;
+    cout << " |      |                                                                            |    |" << endl;
+    cout << " |      |                           Solving adventures                               |    |" << endl; // title
+    cout << " |      |                           ------------------                               |    |" << endl;
+    cout << " |      |                             In wonderland                                  |    |" << endl;
+    cout << " |      |                                                                            |    |" << endl;
+    cout << " |       ----------------------------------------------------------------------------     |" << endl;
+    cout << " |                                ----------------------                                  |" << endl;
+    cout << " |                                      1.Start                                           |" << endl; // Start game
+    cout << " |                                ----------------------                                  |" << endl;
+    cout << " |                                ----------------------                                  |" << endl;
+    cout << " |                                      2. Story                                          |" << endl; // Start story
+    cout << " |                                ----------------------                                  |" << endl;
+    cout << " |                                ----------------------                                  |" << endl;
+    cout << " |                                      3. Credits                                        |" << endl; // Credits for the developers
+    cout << " |                                ----------------------                                  |" << endl;
+    cout << "  ---------------------------------------------------------------------------------------- ";
 }
 void functionMenu()
 {
     cout << endl;
-    cout << endl;
-    string username; //declaration of string username 
+    string username; //Declaration of string username 
+
     cout << "Please enter your username: ";
-    cin >> username; //enter username
-    cout << "To Start press 1" << endl; //explanation of what is going to happen
-    cout << "To read Story press 2" << endl;
-    cout << "To see Credits press 3" << endl;
-    int choice; //declaration of choice
-    cin >> choice;
-    if (choice == 1)
+
+    getline(cin, username); //Enter username
+
+    cout << "To Start press 1" << endl; //Start of level 1 (whiteRabbit)
+
+    cout << "To read Story press 2" << endl; //Explanation of what is going to happen
+    cout << "To see Credits press 3" << endl; //Creadits to all the developers
+    int choiceOne; 
+    cin >> choiceOne; //declaration of choice
+    if (choiceOne == 1)
     {
-        cout << "White Rabbit"; //needs to be worked on
+        //Will send you directly to level 1
+        whiteRabbit();
     }
-    else if (choice == 2)
+    else if (choiceOne == 2)
     {
         //the story of the game
         cout << "You find yourself in a strange and twisted version of reality, a place that feels like a memory hidden just below the surface of your mind, where logic twists, turns, and tangles. Shadows flit at the edges of your vision, and a distant clock ticks with a rhythm that both pulls you forward and fills you with an uncomfortable sense of urgency." << endl << endl;
@@ -74,10 +60,8 @@ void functionMenu()
         cout << "A voice echoes in the darkness." << endl << endl;
 
         cout << "Welcome, " << username << ". Time is ticking, and you're already late..." << endl << endl;
-         
-        cout << "And thus, your journey begins. You find yourself in a land both familiar and unfamiliar, a twisted reflection of Wonderland—one where nothing seems entirely as it should be, where whispers creep from behind the trees, and where every turn seems to lead you deeper into the unknown." << endl;
     }
-    else if (choice == 3)
+    else if (choiceOne == 3)
     {
         //needs to add credits
     }
