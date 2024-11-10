@@ -10,6 +10,10 @@ void displayHint(int hintNumber); //Function declaration for hints
 
 void whiteRabbit()
 {
+    cout << endl << endl << endl;
+
+    cout << "-----------------------------------------------------------------------------------------------------------------" << endl << endl;
+
 	cout << "And thus, your journey begins. You find yourself in a land both familiar and unfamiliar, a twisted reflection of Wonderland—one where nothing seems entirely as it should be, where whispers creep from behind the trees, and where every turn seems to lead you deeper into the unknown." << endl << endl;
 
 	cout << "Are you sure you want to continue down this path...? (Yes/No):   ";
@@ -36,20 +40,24 @@ void whiteRabbit()
 //Defining levelone()
 void levelOne()
 {
-	string username = "Ulvie";
+
+    cout << endl << endl;
+    
+    cout << ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>" << endl << endl;
+
 	cout << "Oh look, isn't that the white rabbit. Let's see if we can get their help..." << endl << endl;
 
 	cout << "As you approached the white rabbit you noticed he was in a big rush." << endl << endl << endl;
 
-	cout << username << ": Hey Mr. White Rabbit. Can I-" << endl;
+	cout << "You" << ": Hey Mr. White Rabbit. Can I-" << endl;
 
 	cout << "White Rabbit: There's no time. There's no time, I need to solve this quickly" << endl << "There's no time." << endl;
 
-	cout << username << ": Wait, wait hold on.. what's going on.." << endl;
+	cout << "You" << ": Wait, wait hold on.. what's going on.." << endl;
 
 	cout << "White Rabbit: The Queen of Hearts she's gonna kill me, she's gonna kill me... She gave me this math equation..." << endl;
 
-	cout << username << ": Wai-... What math equation" << endl;
+	cout << "You" << ": Wai-... What math equation" << endl;
 
     mathFunction();
 
@@ -61,7 +69,10 @@ void mathFunction() {
     int hintRequest;       // User's hint request
     int hintCounter = 1;   // Hint counter
 
-    // Display math problem and rabbit art
+    // Display math problem
+    cout << endl << endl;
+
+    cout << "**********************************************************************" << endl << endl;
     cout << "Math Problem:\n\n";
     displayMathProblem();
 
@@ -87,10 +98,14 @@ void mathFunction() {
     cin >> answer;
 
     if (answer == "5" || answer == "five" || answer == "Five") {
-        cout << "\nCorrect! The last digit is 5.\n";
+        cout << "\nGoodjob you helped Mr. White Rabbit, and wow what's that, he gave you..\n";
+
+        cout << "Mr. White Rabbit: Now remember kid, the first word is wond-..." << endl << endl;
+
+        cout << "Suddenly the rabbit dissapeared, leaving you alone in this misterious, scary land." << endl;
     }
     else {
-        cout << "\nOops! The correct answer is 5.\n";
+        cout << "\nOhhh nooo, you didn't got it right... Now what's going to happen with Mr. White Rabbit?\n";
     }
 }
 
