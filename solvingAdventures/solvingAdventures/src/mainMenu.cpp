@@ -66,7 +66,7 @@ void functionMenu()
 
         cout << "Welcome, " << username << ". Time is ticking, and you're already late..." << endl << endl;
 
-        whiteRabbit(); //Diresctly starting game after the back-story
+        whiteRabbit(); //Directly starting game after the back-story
     }
     else if (choiceOne == 3)
     {

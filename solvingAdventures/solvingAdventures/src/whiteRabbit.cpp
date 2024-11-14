@@ -1,6 +1,7 @@
 ﻿#include <iostream>
 #include "../include/mainMenu.h"
 #include "../include/whiteRabbit.h"
+#include "../include/cheshireCat.h"
 using namespace std;
 
 void levelOne(); //Declaration of function for level 1
@@ -14,20 +15,20 @@ void whiteRabbit()
 
     cout << "-----------------------------------------------------------------------------------------------------------------" << endl << endl;
 
-	cout << "And thus, your journey begins. You find yourself in a land both familiar and unfamiliar, a twisted reflection of Wonderland—one where nothing seems entirely as it should be, where whispers creep from behind the trees, and where every turn seems to lead you deeper into the unknown." << endl << endl;
+    cout << "And thus, your journey begins. You find yourself in a land both familiar and unfamiliar, a twisted reflection of Wonderland—one where nothing seems entirely as it should be, where whispers creep from behind the trees, and where every turn seems to lead you deeper into the unknown." << endl << endl;
 
-	cout << "Are you sure you want to continue down this path...? (Yes/No):   ";
+    cout << "Are you sure you want to continue down this path...? (Yes/No):   ";
 
-	string choice;/*Player will choose weather they want to continue playing or not
-	the story of the game*/
+    string choice;/*Player will choose wether they want to continue playing or not
+    the story of the game*/
 
-	cin >> choice;
+    cin >> choice;
 
-	if (choice == "No")
-	{
-		cout << "Guess you'll stay here forever and ever, and ever, and ever..." << endl;
-	}
-	else if (choice == "Yes")
+    if (choice == "No"|| choice=="no")
+    {
+        cout << "Guess you'll stay here forever and ever, and ever, and ever..." << endl;
+    }
+    else if (choice == "Yes"|| choice=="yes")
 	{
 		levelOne();
 	}
@@ -97,15 +98,17 @@ void mathFunction() {
     cout << "\nAnswer: ";
     cin >> answer;
 
-    if (answer == "5" || answer == "five" || answer == "Five") {
+    if (answer == "5" || answer == "five" || answer == "Five" || answer =="B") {
         cout << "\nGoodjob you helped Mr. White Rabbit, and wow what's that, he gave you..\n";
 
         cout << "Mr. White Rabbit: Now remember kid, the first word is wond-..." << endl << endl;
 
         cout << "Suddenly the rabbit dissapeared, leaving you alone in this misterious, scary land." << endl;
+
+        cheshireCat();
     }
     else {
-        cout << "\nOhhh nooo, you didn't got it right... Now what's going to happen with Mr. White Rabbit?\n";
+        cout << "\nOhhh nooo, you didn't get it right... Now what's going to happen with Mr. White Rabbit?\n";
     }
 }
 
