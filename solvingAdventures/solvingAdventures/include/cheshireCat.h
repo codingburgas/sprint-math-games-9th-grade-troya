@@ -2,3 +2,4 @@
 
 void cheshireCat();
 void appearance();
+void wordleGame();
