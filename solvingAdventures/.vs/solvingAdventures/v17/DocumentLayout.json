@@ -1,33 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\School work and shit\\Troya stuff\\code\\sprint-math-games-9th-grade-troya\\solvingAdventures\\",
+  "WorkspaceRootPath": "C:\\Users\\New\\Downloads\\sprint-math-games-9th-grade-troya\\solvingAdventures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF178389-5B7C-4046-8E34-2A208FD7619C}|solvingAdventures\\solvingAdventures.vcxproj|D:\\School work and shit\\Troya stuff\\code\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\src\\cheshireCat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EF178389-5B7C-4046-8E34-2A208FD7619C}|solvingAdventures\\solvingAdventures.vcxproj|solutionrelative:solvingAdventures\\src\\cheshireCat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EF178389-5B7C-4046-8E34-2A208FD7619C}|solvingAdventures\\solvingAdventures.vcxproj|C:\\Users\\New\\Downloads\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\src\\bridgeCrossing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF178389-5B7C-4046-8E34-2A208FD7619C}|solvingAdventures\\solvingAdventures.vcxproj|solutionrelative:solvingAdventures\\src\\bridgeCrossing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF178389-5B7C-4046-8E34-2A208FD7619C}|solvingAdventures\\solvingAdventures.vcxproj|D:\\School work and shit\\Troya stuff\\code\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\include\\cheshireCat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EF178389-5B7C-4046-8E34-2A208FD7619C}|solvingAdventures\\solvingAdventures.vcxproj|solutionrelative:solvingAdventures\\include\\cheshireCat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF178389-5B7C-4046-8E34-2A208FD7619C}|solvingAdventures\\solvingAdventures.vcxproj|D:\\School work and shit\\Troya stuff\\code\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\include\\whiteRabbit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{EF178389-5B7C-4046-8E34-2A208FD7619C}|solvingAdventures\\solvingAdventures.vcxproj|C:\\Users\\New\\Downloads\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\include\\whiteRabbit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EF178389-5B7C-4046-8E34-2A208FD7619C}|solvingAdventures\\solvingAdventures.vcxproj|solutionrelative:solvingAdventures\\include\\whiteRabbit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF178389-5B7C-4046-8E34-2A208FD7619C}|solvingAdventures\\solvingAdventures.vcxproj|D:\\School work and shit\\Troya stuff\\code\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\src\\whiteRabbit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{EF178389-5B7C-4046-8E34-2A208FD7619C}|solvingAdventures\\solvingAdventures.vcxproj|C:\\Users\\New\\Downloads\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\src\\cheshireCat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF178389-5B7C-4046-8E34-2A208FD7619C}|solvingAdventures\\solvingAdventures.vcxproj|solutionrelative:solvingAdventures\\src\\cheshireCat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF178389-5B7C-4046-8E34-2A208FD7619C}|solvingAdventures\\solvingAdventures.vcxproj|C:\\Users\\New\\Downloads\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\src\\whiteRabbit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EF178389-5B7C-4046-8E34-2A208FD7619C}|solvingAdventures\\solvingAdventures.vcxproj|solutionrelative:solvingAdventures\\src\\whiteRabbit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF178389-5B7C-4046-8E34-2A208FD7619C}|solvingAdventures\\solvingAdventures.vcxproj|D:\\School work and shit\\Troya stuff\\code\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\src\\mainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{EF178389-5B7C-4046-8E34-2A208FD7619C}|solvingAdventures\\solvingAdventures.vcxproj|C:\\Users\\New\\Downloads\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\include\\cheshireCat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF178389-5B7C-4046-8E34-2A208FD7619C}|solvingAdventures\\solvingAdventures.vcxproj|solutionrelative:solvingAdventures\\include\\cheshireCat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF178389-5B7C-4046-8E34-2A208FD7619C}|solvingAdventures\\solvingAdventures.vcxproj|C:\\Users\\New\\Downloads\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\include\\bridgeCrossing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF178389-5B7C-4046-8E34-2A208FD7619C}|solvingAdventures\\solvingAdventures.vcxproj|solutionrelative:solvingAdventures\\include\\bridgeCrossing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF178389-5B7C-4046-8E34-2A208FD7619C}|solvingAdventures\\solvingAdventures.vcxproj|C:\\Users\\New\\Downloads\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\src\\mainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EF178389-5B7C-4046-8E34-2A208FD7619C}|solvingAdventures\\solvingAdventures.vcxproj|solutionrelative:solvingAdventures\\src\\mainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF178389-5B7C-4046-8E34-2A208FD7619C}|solvingAdventures\\solvingAdventures.vcxproj|D:\\School work and shit\\Troya stuff\\code\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\include\\mainMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{EF178389-5B7C-4046-8E34-2A208FD7619C}|solvingAdventures\\solvingAdventures.vcxproj|C:\\Users\\New\\Downloads\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\include\\mainMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EF178389-5B7C-4046-8E34-2A208FD7619C}|solvingAdventures\\solvingAdventures.vcxproj|solutionrelative:solvingAdventures\\include\\mainMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF178389-5B7C-4046-8E34-2A208FD7619C}|solvingAdventures\\solvingAdventures.vcxproj|D:\\School work and shit\\Troya stuff\\code\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{EF178389-5B7C-4046-8E34-2A208FD7619C}|solvingAdventures\\solvingAdventures.vcxproj|C:\\Users\\New\\Downloads\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EF178389-5B7C-4046-8E34-2A208FD7619C}|solvingAdventures\\solvingAdventures.vcxproj|solutionrelative:solvingAdventures\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -38,55 +46,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "main.cpp",
-              "DocumentMoniker": "D:\\School work and shit\\Troya stuff\\code\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\src\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\src\\main.cpp",
               "RelativeDocumentMoniker": "solvingAdventures\\src\\main.cpp",
-              "ToolTip": "D:\\School work and shit\\Troya stuff\\code\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\src\\main.cpp",
+              "ToolTip": "C:\\Users\\New\\Downloads\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\src\\main.cpp",
               "RelativeToolTip": "solvingAdventures\\src\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-06T18:51:13.696Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "whiteRabbit.h",
-              "DocumentMoniker": "D:\\School work and shit\\Troya stuff\\code\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\include\\whiteRabbit.h",
-              "RelativeDocumentMoniker": "solvingAdventures\\include\\whiteRabbit.h",
-              "ToolTip": "D:\\School work and shit\\Troya stuff\\code\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\include\\whiteRabbit.h",
-              "RelativeToolTip": "solvingAdventures\\include\\whiteRabbit.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-09T11:54:25.895Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "cheshireCat.h",
-              "DocumentMoniker": "D:\\School work and shit\\Troya stuff\\code\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\include\\cheshireCat.h",
-              "RelativeDocumentMoniker": "solvingAdventures\\include\\cheshireCat.h",
-              "ToolTip": "D:\\School work and shit\\Troya stuff\\code\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\include\\cheshireCat.h",
-              "RelativeToolTip": "solvingAdventures\\include\\cheshireCat.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Title": "whiteRabbit.h",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\include\\whiteRabbit.h",
+              "RelativeDocumentMoniker": "solvingAdventures\\include\\whiteRabbit.h",
+              "ToolTip": "C:\\Users\\New\\Downloads\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\include\\whiteRabbit.h",
+              "RelativeToolTip": "solvingAdventures\\include\\whiteRabbit.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-13T19:43:21.131Z"
+              "WhenOpened": "2024-11-09T11:54:25.895Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "bridgeCrossing.cpp",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\src\\bridgeCrossing.cpp",
+              "RelativeDocumentMoniker": "solvingAdventures\\src\\bridgeCrossing.cpp",
+              "ToolTip": "C:\\Users\\New\\Downloads\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\src\\bridgeCrossing.cpp",
+              "RelativeToolTip": "solvingAdventures\\src\\bridgeCrossing.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T15:39:18.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bridgeCrossing.h",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\include\\bridgeCrossing.h",
+              "RelativeDocumentMoniker": "solvingAdventures\\include\\bridgeCrossing.h",
+              "ToolTip": "C:\\Users\\New\\Downloads\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\include\\bridgeCrossing.h",
+              "RelativeToolTip": "solvingAdventures\\include\\bridgeCrossing.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-18T15:39:08.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cheshireCat.h",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\include\\cheshireCat.h",
+              "RelativeDocumentMoniker": "solvingAdventures\\include\\cheshireCat.h",
+              "ToolTip": "C:\\Users\\New\\Downloads\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\include\\cheshireCat.h",
+              "RelativeToolTip": "solvingAdventures\\include\\cheshireCat.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T19:43:21.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "cheshireCat.cpp",
-              "DocumentMoniker": "D:\\School work and shit\\Troya stuff\\code\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\src\\cheshireCat.cpp",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\src\\cheshireCat.cpp",
               "RelativeDocumentMoniker": "solvingAdventures\\src\\cheshireCat.cpp",
-              "ToolTip": "D:\\School work and shit\\Troya stuff\\code\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\src\\cheshireCat.cpp",
+              "ToolTip": "C:\\Users\\New\\Downloads\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\src\\cheshireCat.cpp",
               "RelativeToolTip": "solvingAdventures\\src\\cheshireCat.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC0AAACVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-13T19:40:37.934Z",
               "EditorCaption": ""
@@ -95,37 +132,40 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "whiteRabbit.cpp",
-              "DocumentMoniker": "D:\\School work and shit\\Troya stuff\\code\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\src\\whiteRabbit.cpp",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\src\\whiteRabbit.cpp",
               "RelativeDocumentMoniker": "solvingAdventures\\src\\whiteRabbit.cpp",
-              "ToolTip": "D:\\School work and shit\\Troya stuff\\code\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\src\\whiteRabbit.cpp",
+              "ToolTip": "C:\\Users\\New\\Downloads\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\src\\whiteRabbit.cpp",
               "RelativeToolTip": "solvingAdventures\\src\\whiteRabbit.cpp",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAGsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-09T11:54:01.438Z"
+              "WhenOpened": "2024-11-09T11:54:01.438Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "mainMenu.cpp",
-              "DocumentMoniker": "D:\\School work and shit\\Troya stuff\\code\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\src\\mainMenu.cpp",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\src\\mainMenu.cpp",
               "RelativeDocumentMoniker": "solvingAdventures\\src\\mainMenu.cpp",
-              "ToolTip": "D:\\School work and shit\\Troya stuff\\code\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\src\\mainMenu.cpp",
+              "ToolTip": "C:\\Users\\New\\Downloads\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\src\\mainMenu.cpp",
               "RelativeToolTip": "solvingAdventures\\src\\mainMenu.cpp",
               "ViewState": "AgIAABIAAAAAAAAAAAAAADEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-06T18:51:12.865Z"
+              "WhenOpened": "2024-11-06T18:51:12.865Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "mainMenu.h",
-              "DocumentMoniker": "D:\\School work and shit\\Troya stuff\\code\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\include\\mainMenu.h",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\include\\mainMenu.h",
               "RelativeDocumentMoniker": "solvingAdventures\\include\\mainMenu.h",
-              "ToolTip": "D:\\School work and shit\\Troya stuff\\code\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\include\\mainMenu.h",
+              "ToolTip": "C:\\Users\\New\\Downloads\\sprint-math-games-9th-grade-troya\\solvingAdventures\\solvingAdventures\\include\\mainMenu.h",
               "RelativeToolTip": "solvingAdventures\\include\\mainMenu.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-06T18:51:02.905Z"
+              "WhenOpened": "2024-11-06T18:51:02.905Z",
+              "EditorCaption": ""
             }
           ]
         }

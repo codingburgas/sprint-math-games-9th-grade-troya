@@ -27,6 +27,9 @@
     <ClCompile Include="src\cheshireCat.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\bridgeCrossing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\mainMenu.h">
@@ -36,6 +39,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="include\cheshireCat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\bridgeCrossing.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

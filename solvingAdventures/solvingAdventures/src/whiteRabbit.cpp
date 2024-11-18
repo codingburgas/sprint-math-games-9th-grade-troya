@@ -105,7 +105,7 @@ void mathFunction() {
 
         cout << "Suddenly the rabbit dissapeared, leaving you alone in this misterious, scary land." << endl;
 
-        cheshireCat();
+        appearance();
     }
     else {
         cout << "\nOhhh nooo, you didn't get it right... Now what's going to happen with Mr. White Rabbit?\n";

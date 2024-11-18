@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include <algorithm>
+#include "../include/bridgeCrossing.h"
 #include "../include/cheshireCat.h"
 
 using namespace std;
@@ -21,6 +22,7 @@ void printFeedback(const string& guess, const string& secretWord) {
 }
 
 void appearance() {
+    cout << "______________________________________________________________________________________________________________________________" << endl;
     cout << "                       |\                      /|       " << endl;
     cout << "                       /\                     /\       " << endl;
     cout << "                      /  \\                   /  \\ " << endl;
@@ -36,6 +38,7 @@ void appearance() {
     cout << "                       `\\_ \\   /\\ /\\  \\   \\  /_/`" << endl;
     cout << "                          `\\_\\/  \\/ \\/ \\ / _/`" << endl;
     cout << "                             `\\__________/`" << endl;
+    cheshireCat();
 }
 
 void cheshireCat() {
@@ -73,9 +76,9 @@ void cheshireCat() {
 
                 if (guess == secretWord) {
                     cout << "Congratulations! You guessed the word: " << secretWord << endl;
+                    bridge();
                     return;
                 }
-
                 printFeedback(guess, secretWord);
             }
 
