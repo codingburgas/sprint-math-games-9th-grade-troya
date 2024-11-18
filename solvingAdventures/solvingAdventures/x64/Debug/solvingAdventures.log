@@ -1,4 +1,3 @@
-﻿  cheshireCat.cpp
-C:\Users\New\Downloads\sprint-math-games-9th-grade-troya\solvingAdventures\solvingAdventures\src\cheshireCat.cpp(26,13): warning C4129: ' ': unrecognized character escape sequence
-C:\Users\New\Downloads\sprint-math-games-9th-grade-troya\solvingAdventures\solvingAdventures\src\cheshireCat.cpp(27,13): warning C4129: ' ': unrecognized character escape sequence
-  solvingAdventures.vcxproj -> C:\Users\New\Downloads\sprint-math-games-9th-grade-troya\solvingAdventures\x64\Debug\solvingAdventures.exe
+﻿  bridgeCrossing.cpp
+C:\Users\PC\OneDrive\Работен плот\sprint-math-games-9th-grade-troya\solvingAdventures\solvingAdventures\src\bridgeCrossing.cpp(27,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  solvingAdventures.vcxproj -> C:\Users\PC\OneDrive\Работен плот\sprint-math-games-9th-grade-troya\solvingAdventures\x64\Debug\solvingAdventures.exe

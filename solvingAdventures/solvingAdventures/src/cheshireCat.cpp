@@ -46,19 +46,22 @@ void cheshireCat() {
     cout << "______________________________________________________________________________________________________________________________" << endl;
     cout << "After wandering around for hours, you come across a forest. Although something doesnt seem quite right about it..." << endl;
     cout << "You decide to take the risk and walk further into the endless trees and darkness. After walking for what felt like hours, you spot some light that seems to be the exit." << endl;
-    cout << "Suddenly you bump into something. You closed your eyes before you bumped into whatever it was and fell to the ground from the impact. You hear a strange voice, which you can barely understand." << endl;
-    cout << "???: Why H3ll0 th3r3! F4ncy s33!ng n3w f4c3s 4r0und h3r3!" << endl;
+    cout << "Suddenly you bump into something. You closed your eyes before you bumped into whatever it was and fell to the ground from the impact. You hear a strange voice, which you can barely understand." << endl << endl;
+    cout << "???: Why H3ll0 th3r3! F4ncy s33!ng n3w f4c3s 4r0und h3r3!" << endl << endl;
+    cout << "You wouldn't dare to look, as the at them" << endl << endl;
+    cout << "You: I was just looking for a bridge... Can you-" << endl << endl;
+    cout << "???: 0p3n y0ur 3y3s f1rs1 1sn'1 1t 1np0l1t3?" << endl << endl;
     cout << "Open your eyes? (Yes/No): ";
     while (true) {
         cin >> choice;
         transform(choice.begin(), choice.end(), choice.begin(), ::tolower); // Convert input to lowercase
 
         if (choice == "yes") {
-            const string secretWord = "WLAND"; // The word to guess
+            const string secretWord = "WONDER"; // The word to guess
             const int maxAttempts = 6; // Maximum number of attempts
             const size_t wordLength = secretWord.length();
 
-            cout << "Guess the " << wordLength << "-letter word. You have " << maxAttempts << " attempts." << endl;
+            cout << "Gu3ss 1h3 " << wordLength << "-l3tt2r w0rd. Y0u h2v3 " << maxAttempts << " a113mp1s. 2nd y0u c1n g3t t0 y0ur br1dg3 w1th that answ3r." << endl << endl;
 
             for (int attempt = 1; attempt <= maxAttempts; attempt++) {
                 cout << "Attempt " << attempt << ": ";

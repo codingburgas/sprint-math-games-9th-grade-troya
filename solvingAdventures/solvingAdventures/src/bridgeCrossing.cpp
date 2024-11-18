@@ -6,8 +6,17 @@
 using namespace std;
 
 void bridge() {
+    cout << "The Cheshire Cat let you go on your way, giving you a map to the Wonder bridge." << endl << endl;
+    cout << "---------------------------------------------------------------------------------" << endl << endl;
+    cout << "As you walk you found a bridge that looked just like the Wonder bridge" << endl << endl;
+    cout << "You try to pass the bridge, but it suddenly moves." << endl << endl;
+    cout << "Wonder Bridge: Keyword pleaseee. - the bridge says" << endl << endl;
+    cout << "After you've been throught all these things you weren't suprised even a bit" << endl << endl;
+    cout << "You: Can I pass?" << endl << endl;
+    cout << "Wonder Bridge: NO! Keyword please!!" << endl << endl;
+    cout << "What could be the keyword... you thought, you were headed to the exit of this world, but where could the end be..." << endl << endl << endl;
     // Chosen word to be guessed by the user
-    string originalWord = "stairs";
+    string originalWord = "hearts";
 
     // Create a backwards version of the chosen word
     string reversedWord = originalWord;
@@ -24,10 +33,10 @@ void bridge() {
     // Displaying the bridge structure with the reversed word centered
     cout << "     __________________________      \n";
     cout << "    |                          |     \n";
-    cout << "  |";
+    cout << "    |";
 
     // Print the spaces before the word
-    for (int i = 0; i < spacesBefore; i++) {
+    for (int i = 0; i < spacesBefore - 4; i++) {
         cout << " ";
     }
 

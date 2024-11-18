@@ -1,4 +1,5 @@
 ﻿#include <iostream>
+#include <string>
 #include "../include/mainMenu.h"
 #include "../include/whiteRabbit.h"
 #include "../include/cheshireCat.h"
@@ -22,20 +23,26 @@ void whiteRabbit()
     string choice;/*Player will choose wether they want to continue playing or not
     the story of the game*/
 
-    cin >> choice;
-
-    if (choice == "No"|| choice=="no")
+    bool start = false;
+    while(!start)
     {
-        cout << "Guess you'll stay here forever and ever, and ever, and ever..." << endl;
+        cin >> choice;
+
+        if (choice == "No"|| choice=="no")
+        {  
+            cout << "Guess you'll stay here forever and ever, and ever, and ever..." << endl;
+            break;
+        }
+        else if (choice == "Yes"|| choice=="yes")
+	    {
+	    	levelOne();
+            break;
+	    }
+	    else
+	    {
+	    	cout << "Invalid choice please write Yes or No" << endl;
+	    }
     }
-    else if (choice == "Yes"|| choice=="yes")
-	{
-		levelOne();
-	}
-	else
-	{
-		cout << "Invalid chice please write Yes or No" << endl;
-	}
 }
 
 //Defining levelone()
@@ -67,7 +74,7 @@ void levelOne()
 // Main function
 void mathFunction() {
     string answer;         // User's answer
-    int hintRequest;       // User's hint request
+    string hintRequest;       // User's hint request
     int hintCounter = 1;   // Hint counter
 
     // Display math problem
@@ -82,11 +89,11 @@ void mathFunction() {
         cout << "\nPress " << hintCounter << " to reveal Hint " << hintCounter << ", or type '0' to skip: ";
         cin >> hintRequest;
 
-        if (hintRequest == hintCounter) {
+        if (hintRequest == to_string(hintCounter)) {
             displayHint(hintCounter);
             hintCounter++;
         }
-        else if (hintRequest == 0) {
+        else if (hintRequest == "0") {
             break;
         }
         else {
