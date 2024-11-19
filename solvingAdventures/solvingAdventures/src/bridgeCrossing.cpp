@@ -2,6 +2,7 @@
 #include <string>
 #include <algorithm>
 #include "../include/bridgeCrossing.h"
+#include "../include/queenOfHearts.h"
 
 using namespace std;
 
@@ -68,6 +69,7 @@ void bridge() {
     // Check if the guess is correct
     if (userGuess == originalWord) {
         cout << "Congratulations! You guessed the word correctly: " << originalWord << "!\n";
+        queenOfHearts();
     }
     else {
         cout << "Sorry, that's incorrect. The correct word was: " << originalWord << ".\n";
