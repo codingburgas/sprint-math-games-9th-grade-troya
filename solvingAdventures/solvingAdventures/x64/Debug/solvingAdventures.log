@@ -1,3 +1,6 @@
 ﻿  bridgeCrossing.cpp
-C:\Users\PC\OneDrive\Работен плот\sprint-math-games-9th-grade-troya\solvingAdventures\solvingAdventures\src\bridgeCrossing.cpp(27,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  solvingAdventures.vcxproj -> C:\Users\PC\OneDrive\Работен плот\sprint-math-games-9th-grade-troya\solvingAdventures\x64\Debug\solvingAdventures.exe
+D:\School work and shit\Troya stuff\code\sprint-math-games-9th-grade-troya\solvingAdventures\solvingAdventures\src\bridgeCrossing.cpp(28,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  queenOfHearts.cpp
+D:\School work and shit\Troya stuff\code\sprint-math-games-9th-grade-troya\solvingAdventures\solvingAdventures\src\queenOfHearts.cpp(197,9): warning C4101: choice: неиспользованная локальная переменная
+  Создание кода...
+  solvingAdventures.vcxproj -> D:\School work and shit\Troya stuff\code\sprint-math-games-9th-grade-troya\solvingAdventures\x64\Debug\solvingAdventures.exe

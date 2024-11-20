@@ -23,12 +23,14 @@
     <ClCompile Include="src\cheshireCat.cpp" />
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\mainMenu.cpp" />
+    <ClCompile Include="src\queenOfHearts.cpp" />
     <ClCompile Include="src\whiteRabbit.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\bridgeCrossing.h" />
     <ClInclude Include="include\cheshireCat.h" />
     <ClInclude Include="include\mainMenu.h" />
+    <ClInclude Include="include\queenOfHearts.h" />
     <ClInclude Include="include\whiteRabbit.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

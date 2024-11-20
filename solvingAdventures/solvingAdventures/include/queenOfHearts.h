@@ -1,4 +1,6 @@
 #pragma once
 
 void queenOfHearts();
-void doors();
+void doorsOneAndTwo();
+void doorsThreeAndFour();
+void doorsFiveAndSix();
