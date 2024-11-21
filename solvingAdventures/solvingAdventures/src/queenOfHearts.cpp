@@ -33,7 +33,7 @@ void queenOfHearts()
         }
     }
 }
-
+//function for the doors number 1 and 2
 void doorsOneAndTwo()
 {
     cout << endl << "      ______________________________________________________________________________________________________" << endl << endl;
@@ -70,14 +70,17 @@ void doorsOneAndTwo()
 
     while (true)
     {
+        //user writes their choice
         cin >> choice;
 
+        //what happens if the user choose 1
         if (choice == 1)
         {
             cout << "Solve this equation and say the result out loud." << endl;
             cout << "4*k*y*1/8*e*2 = ";
             cin >> answer;
 
+            //check if the user guess right the word
             if (answer == "key")
             {
                 cout << "Remember this word. You will need it to get out." << endl;
@@ -101,6 +104,7 @@ void doorsOneAndTwo()
         }
     }
 }
+//function for the doors number 3 and 4
 void doorsThreeAndFour()
 {
     cout << "It seems like youre getting closer to the exit and your freedom! But yet an another set of door greets you." << endl << endl;
@@ -134,34 +138,36 @@ void doorsThreeAndFour()
     cout << endl << "Which door would you like to open? ";
     int choice;
     cin >> choice;
+    //what happens if user's choice is 3
     if (choice == 3)
     {
         cout << "yea you lose :(";
     }
-        else if (choice == 4)
+    //what happens if the user's choice is 4
+    else if (choice == 4)
     {
-        cout << "<math equation>";
-        int a;
-        cin >> a;
-        //replace with mathematical question
-        //formulate answer
+        cout << "2*f*1/4*o*2*r = ";
+        string answer;
+        cin >> answer;
 
-        if (a == 0)
+        //check if the user's answer is right
+        if (answer == "for")
         {
-            cout << "Right";
+            cout << "That's right remember that word too! ";
             doorsFiveAndSix();
         }
         else
         {
-            cout << "Wrong";
+            cout << "That's wrong. You loose. :(";
         }
     }
-        else {
+    else {
         cout << "Incorrect input. Try again";
         cin >> choice;
     }
 
 }
+//function for the doors number 5 and 6
 void doorsFiveAndSix()
 {
     cout << "It seems like youre getting closer to the exit and your freedom! But yet an another set of door greets you." << endl << endl;
@@ -194,21 +200,37 @@ void doorsFiveAndSix()
     cout << "      ______________________________________________________________________________________________________" << endl;
     cout << endl << "Which door would you like to open? ";
     int choice;
+    cin >> choice;
 
+    //what happens if the user's choice is 6
     if (choice == 6)
     {
-        int a;
-        cout << "solve this ";
-        cin >> a;
-        if (1 > 0)
+        string answer;
+        cout << "3*w*o*n*1/9*d*e*r*3*l*a*n*d: ";
+        cin >> answer;
+
+        //check if the user's answer is right
+        if (answer == "wonderland")
         {
-            cout << "woohoo you winnn";
+            string phrase;
+            cout << "That is right! Now make a phrase from all the words in previous doors.(write them without space): ";
+            cin >> phrase;
+            if (phrase == "keyforwonderland")
+            {
+                cout << "Congratulations!!! You survive and win the game!";
+            }
+            else
+            {
+                cout << "Sorry, but you loose.";
+            }
         }
         else
         {
             cout << "oh no :( so close";
         }
     }
+
+    //what happens if the user's choice is 5
     else if (choice == 5)
     {
         cout << "you died woopsiess";
