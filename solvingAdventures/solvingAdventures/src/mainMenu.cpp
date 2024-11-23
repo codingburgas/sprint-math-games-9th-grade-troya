@@ -70,7 +70,20 @@ void functionMenu()
     }
     else if (choiceOne == 3)
     {
-        //needs to add credits
+        cout << "Ulvie Mustafa (9g) - Scrum trainer" << endl;
+        cout << "Created working environment then she did the backend of level 1 and 2. Finally she did the presentation." << endl;
+        cout << endl;
+        cout << "Sheniz Ali (9b) - Backend developer" << endl;
+        cout << "Made the main menu basics then she made backend of level 3 and 4. Finally she did the documentation." << endl;
+        cout << endl;
+        cout << "Martin Dimarov (9v) - Frontend developer" << endl;
+        cout << "Made the main menu details then he made the frontend of level 1 and 3 and also helped for backend level 3." << endl;
+        cout << endl;
+        cout << "Ameliia Dorosh (9g) - Designer" << endl;
+        cout << "Made the design of all the levels and frontend of level 2 and 4 then she made the logos." << endl;
+
+        whiteRabbit();
+
     }
     else
     {
