@@ -1,9 +1,11 @@
 <h1 align="center"> Team Troya </h1>
+<div align="center">
+<img src = "https://cdn.discordapp.com/attachments/1299358674724065291/1309860074558328943/troya_logo.png?ex=67446f41&is=67431dc1&hm=d6f5dc5a0724c23fb26c2ad2b36e847fc31f3231e4c39685ed22de3f72a1b087&" width = "500" alt = "Team logo" />
+</div>
 <h3 align="center"> Game name: Alice's solving adventures </h3> 
 <div align="center">
-<img src = "https://cdn.discordapp.com/attachments/1299358674724065291/1309860074558328943/troya_logo.png?ex=67446f41&is=67431dc1&hm=d6f5dc5a0724c23fb26c2ad2b36e847fc31f3231e4c39685ed22de3f72a1b087&" width = "500" alt = "logo" />
-</div>
-    
+    <img src = "https://github.com/user-attachments/assets/c04264e6-956f-4ab6-8ede-34cb1d87e9f3" width = "600" height ="300" alt = "Game logo" />
+    </div>
 <br>
     
 <!-- TABLE OF CONTENTS -->
