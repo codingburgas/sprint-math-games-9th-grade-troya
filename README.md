@@ -109,10 +109,17 @@ Email: MNDimarov23@codingburgas.bg
 <b><a href="https://github.com/AODorosh23">Ameliia Dorosh (9g) - Designer</b> 
 <br>
 Email: AODorosh23@codingburgas.bg
-    
+
+<h1>Documentation</h1>    
+<hr>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" width="20" alt="MS Word Logo"> <a href="https://1drv.ms/w/c/674ad8e1afb161fe/EQUmdEqEvRRDqPfjrTcjWucBfeLeI9glbGn30jJTUTqY8w">Documentation</a>
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" width="20" alt="MS PowerPoint Logo"> <a href="https://eu.docworkspace.com/d/sIMvI55yFAtO8jroG">Presentation</a>
+<br>
+
 </p>
-    
-<h2 id="download">Download</h2>
+<h2>Download</h2>
     
 <p>To download our project, clone our repository by pasting this command in your command prompt:</p>
     
